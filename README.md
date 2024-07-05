@@ -122,7 +122,7 @@ python3 -m pip install -U demucs
 
 For bleeding edge versions, you can install directly from this repo using
 ```bash
-python3 -m pip install -U git+https://github.com/facebookresearch/demucs#egg=demucs
+python3 -m pip install -U git+https://github.com/shigabeev/demucs#egg=demucs
 ```
 
 Advanced OS support are provided on the following page, **you must read the page for your OS before posting an issues**:
